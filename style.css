@@ -1,0 +1,26 @@
+.one{
+  border: 5px outset red;
+  background-color: lightblue;
+  text-align: center;
+}
+.two{ 
+	border: 2px outset red;
+    background-color: lightgreen;
+	font-family:arial;
+	float:left;
+	height:85%; 
+	width:70%
+}
+.three{
+	border: 2px outset red;
+    background-color: gray;
+	float:right; 
+	height:85%;
+	width:29.3%
+}
+.four{
+	border:2px outset red; 
+	background-color: lightblue;
+    size:30%
+}
+.one p{color:blue;}
